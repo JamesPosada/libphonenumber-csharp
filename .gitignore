@@ -152,3 +152,6 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+/csharp/lib
+/csharp/packages/NUnit.Runners.2.6.4
+/csharp
